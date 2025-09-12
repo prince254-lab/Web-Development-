@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>My Short Bio</title>
+</head>
+<meta charset UTF="8">
+<meta name="viewport",content='width=device-width'>
+<body>
+    <h1>PRINCE DAGAR</h1>
+    <p1>My name is Prince Dagar.I am from haryana. I am 19 years old
+    </p1>
+    <hr>
+    <h2>MY INTERESTs</h2>
+    <p2>1-Sports, 2-Art </p2>
+</body>
+</html>
