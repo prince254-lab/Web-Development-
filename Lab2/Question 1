@@ -1,0 +1,16 @@
+<!DOCTYPE html>>
+<html lang="en">
+<body>
+    <h1>My Favorite Website</h1>
+    <ul>
+        <li>
+            <a href ='https://in.bookmyshow.com/'target='_blank'>bookmyshow</a>
+        </li>
+        <li>
+            <a href ='https://www.google.com/'target='_blank'>google</a>
+        </li> 
+        <li>
+            <a href ='https://www.flipkart.com/'target='_blank'>flipkart</a>
+        </li
+    </ul>
+</body>
