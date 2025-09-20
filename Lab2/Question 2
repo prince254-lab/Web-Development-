@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<h2>Image with description</h2>
+<img src="https://m.media-amazon.com/images/I/51WRaOtap-L.jpg"width='200px'height='100px'alt='bike'>
+<p>There really is something about riding bikes. I love the freedom I feel while riding, it's always worth the effort. Even more than just riding, I love racing . I appreciate the challenge, and the fact that I will push myself harder during a race. The Breck Epic was a true challenge and test for me. In all honesty I was ill for most of the race. I chalk this up to bad luck on my part and am not too upset about the outcome. It could have been worse and I am lucky to be out there giving it my all and just riding my bike.</p>
+<img src="https://img.autocarindia.com/ExtraImages/20241205062334_20240606032223_Creta%20showroom%20shot%20_1_.jpg"width='200px'height='100px'alt='car'>
+<p>Cars are an essential mode of transportation used for leisure activities, work, or travelling purposes. Each new model of a car and its specific feature can determine its driving experience. Cars can be a safe way to commute to avoid close contact with the general public during pandemic situations. A car at home can be very beneficial in case of family health emergencies.</p>
+<img src="https://www.marineinsight.com/wp-content/uploads/2019/08/Cruise-ships-1.png"width='200px'height='100px'alt='car'>
+<p>A ship is a large watercraft designed for travel across the surface of a body of water, carrying cargo or passengers, or in support of specialized tasks such as warfare, oceanography and fishing.</p>
+</body>
